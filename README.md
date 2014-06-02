@@ -7,3 +7,6 @@ Server Template
 - Traceur
 - Jade
 - Less
+
+Badges
+================
