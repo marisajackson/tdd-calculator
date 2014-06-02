@@ -35,9 +35,11 @@ class Calculator {
     },0);
 
     var numerator = total * denominator;
-    
+
     return `${numerator}/${denominator}`;
   }
 }
 
 module.exports = Calculator;
+
+//Im doing it!
