@@ -41,5 +41,3 @@ class Calculator {
 }
 
 module.exports = Calculator;
-
-//Im doing it!
